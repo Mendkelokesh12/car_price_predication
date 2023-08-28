@@ -7,13 +7,6 @@
 
 Car  Price Prediction is Python Based console  application Where we can predict the price of Second Hand phone.
 
-## Features
-
-- The application would need to know the brand of the phone in order to make an accurate prediction.
-- The model of the phone is also important, as different models have different features and specifications.
-- Back and front Camera
-- Rating  of the Phone
-- The features of the phone also affect its price. Features like Ram ,Rom,Processor & Battery
 
 
 ## Features 
