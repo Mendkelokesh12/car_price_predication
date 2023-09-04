@@ -11,7 +11,7 @@ Car  Price Prediction is Python Based console  application Where we can predict 
 
 ## Features 
 
-- The application would  would need to basic information about the car like Fule type ,Horse power , Avrage on highway etc....
+- The application need basic information about the car like Fule type ,Horse power , Avrage on highway etc....
 - The cylinder number and carbody is also important ,as diferent Car have different type of body and Number of Cylinder.
 - Whelbase
 - Strok
